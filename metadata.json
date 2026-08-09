@@ -1,0 +1,6 @@
+{
+  "name": "गोल ज्योति स्टोर",
+  "description": "सृष्टि ज्योति बाथी बिजनेस वेबसाइट - गोल ज्योति स्टोर",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
